@@ -1,0 +1,5 @@
+body	{font-family: arial, sans-serif;}
+.tile {position: absolute; width: 60px; height: 60px; border: 2px solid black; font-size: 26px; color: red; font-weight: bold; text-align: center; vertical-align: center;}
+.blank	{}
+.number {position: relative; top: 15px;}
+.message {position: absolute; top:300; visibility:hidden}
